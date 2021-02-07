@@ -1,0 +1,6 @@
+framework module BKLibDemo {
+  umbrella header "BKLibDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

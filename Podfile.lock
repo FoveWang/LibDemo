@@ -1,0 +1,16 @@
+PODS:
+  - BKLibDemo (0.1.0)
+
+DEPENDENCIES:
+  - BKLibDemo (from `Lib/BKLibDemo`)
+
+EXTERNAL SOURCES:
+  BKLibDemo:
+    :path: Lib/BKLibDemo
+
+SPEC CHECKSUMS:
+  BKLibDemo: aeacd7152b6a1cca91535d530eeac0c0b8120dbf
+
+PODFILE CHECKSUM: 268e2654e1783e25fe7a388634fa256527ad5104
+
+COCOAPODS: 1.10.0

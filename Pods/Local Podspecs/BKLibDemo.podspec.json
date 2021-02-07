@@ -1,0 +1,22 @@
+{
+  "name": "BKLibDemo",
+  "version": "0.1.0",
+  "summary": "A short description of BKLibDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fove/BKLibDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fove": "fove@bitkan.com"
+  },
+  "source": {
+    "git": "https://github.com/fove/BKLibDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "BKLibDemo/Classes/**/*"
+}
